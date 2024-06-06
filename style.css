@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+div{
+        width: 400px;
+        height: 650px;
+        border: 1px solid;
+        border-radius: 3px;
+        display: inline-block;
+        margin-top: 60px;
+        margin-left: 60px;
+
+}
+
+img{
+    width: 300px;
+    height: 350px;
+    margin-left: 40px;
+}
+.boy{
+    margin-left: 250px;
+}
+h2{
+    text-align: center;
+}
+p{
+    margin-left: 15px;
+}
+.price{
+    margin-top: 10px;
+   
+    color: #B12704;
+}
+.intel{
+    width: 360px;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 15px;
+    background-color: #EBEBEB;
+    border-color: transparent;
+
+}
+.core{
+    margin-top: 15px;
+
+}
+a{
+    margin-left: 15px;
+    text-decoration: none;
+    
+    
+}
+.buy{
+    color: purple;
+}
+.back{
+    text-decoration: underline;
+    font-size: small;   
+    color: black;
+    font-style: italic; 
+}
